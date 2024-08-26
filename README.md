@@ -4,6 +4,8 @@
 In this project, I migrated data from an on-premises SQL Server to Azure using various Azure services. Below is a detailed breakdown of the process.  
 ![Alt_text](https://github.com/VarunK715/azuredataproject/blob/main/screenshot/mini-project.png)
 
+DataSource : Utilized Microsoft AdventureWorks sample data for the project to simulate real-world data scenarios and validate data migration processes.
+
 **1. Azure Data Factory (ADF)** 
 
 Setup:  
