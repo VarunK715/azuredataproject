@@ -1,7 +1,7 @@
 🚀 From On-Premises to Azure: My Data Migration Journey 🌐
 
-Overview
-In this project, I migrated data from an on-premises SQL Server to Azure using various Azure services. Below is a detailed breakdown of the process.
+**Overview**
+**In this project, I migrated data from an on-premises SQL Server to Azure using various Azure services. Below is a detailed breakdown of the process.**
 ![Alt_text](https://github.com/VarunK715/azuredataproject/blob/main/screenshot/mini-project.png)
 
 1. Azure Data Factory (ADF)
